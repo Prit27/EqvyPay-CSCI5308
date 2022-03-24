@@ -33,7 +33,7 @@ Install maven from https://maven.apache.org/download.cgi
 Import this project in your favorite IDE
 Run the project as a java application
 Play around!
-
+```
 ## Deployment
 As a part of the course, the code was deployed on Timberlea servers of Dalhousie University, using a gitlab CI/CD pipeline.
 
